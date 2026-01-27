@@ -1,2 +1,2 @@
-Ez az első git fájlom :)
+Ez a szerverről jött.
 Ezt a github webes felületén írtam hozzá.
