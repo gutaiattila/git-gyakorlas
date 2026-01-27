@@ -1,1 +1,2 @@
 Ez az első git fájlom :)
+Ezt a github webes felületén írtam hozzá.
